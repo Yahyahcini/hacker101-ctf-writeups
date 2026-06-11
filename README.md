@@ -51,7 +51,7 @@ A quick reference to which writeups cover which vulnerability classes:
 
 ## Tools Used
 
-`Burp Suite` · `Ghauri` · `ffuf` · `feroxbuster` · `Hydra` · `jadx` · `Z3 Solver` · `Python`
+`Burp Suite` · `Ghauri` · `ffuf` · `feroxbuster` · `feroxbuster` · `jadx` · `fcrackzip` · `Python`
 
 ---
 
