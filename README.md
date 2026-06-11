@@ -12,7 +12,7 @@ Personal writeups for Hacker101 CTF challenges — SQL injection, IDOR, XSS, SSR
 | [Postbook](./postbook/README.md) | Easy | 7/7 | ✅ |
 | [Cody's First Blog](./codys-first-blog/README.md) | Moderate | 3/3 | ✅ |
 | [Petshop Pro](./petshop-pro/README.md) | Easy | 3/3 | ✅ |
-| [Ticketastic: Live Instance](./ticketastic-live-instance/README.md) | Moderate | 2/2 | ✅ |
+| [Ticketastic: Live Instance](./Ticketastic%3A%20Live%20Instance/README.md) | Moderate | 2/2 | ✅ |
 | [Tempimage](./tempimage/README.md) | Moderate | 2/2 | ✅ |
 | [Model E1337](./model-e1337/README.md) | Hard | 2/2 | ✅ |
 | [Intentional Exercise](./intentional-exercise/README.md) | Moderate | 1/1 | ✅ |
@@ -23,7 +23,7 @@ Personal writeups for Hacker101 CTF challenges — SQL injection, IDOR, XSS, SSR
 | [H1 Thermostat](./h1-thermostat/README.md) | Easy | 2/2 | ✅ |
 | [RTFM](./rtfm/README.md) | Moderate | 8/8 | ✅ |
 | [Grayhatcon CTF](./grayhatcon-ctf/README.md) | Moderate | 4/4 | ✅ |
-| [Hackyholidays CTF](./hackyholidays-ctf/README.md) | Expert | 12/12 | ✅ |
+| [Hackyholidays CTF](./hackyholidays-ctf/README.md) | Moderate | 12/12 | ✅ |
 | [Y2FuIHlvdSByZWNvbj8/](./can-you-recon/README.md) | Moderate | 3/3 | ✅ |
 
 
