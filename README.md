@@ -60,3 +60,6 @@ A quick reference to which writeups cover which vulnerability classes:
 - Flags are redacted in writeups — only payloads and methodology are shown.
 - Each writeup follows the same format: attack chain summary, step-by-step exploitation, root cause table, and reusable payloads.
 - All labs solved on Hacker101 CTF (https://ctf.hacker101.com).
+
+
+> *If these writeups helped you learn something new, consider giving this repo a ⭐ to help others find it!*
