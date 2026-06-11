@@ -15,16 +15,16 @@ Personal writeups for Hacker101 CTF challenges — SQL injection, IDOR, XSS, SSR
 | [Ticketastic: Live Instance](./Ticketastic%3A%20Live%20Instance/README.md) | Moderate | 2/2 | ✅ |
 | [Tempimage](./tempimage/README.md) | Moderate | 2/2 | ✅ |
 | [Model E1337](./model-e1337/README.md) | Hard | 2/2 | ✅ |
-| [Intentional Exercise](./intentional-exercise/README.md) | Moderate | 1/1 | ✅ |
-| [BugDB v1](./bugdb-v1/README.md) | Easy | 1/1 | ✅ |
-| [BugDB v2](./bugdb-v2/README.md) | Moderate | 2/2 | ✅ |
-| [XSS Playground — zseano](./xss-playground-zseano/README.md) | Easy | 1/1 | ✅ |
-| [OSU CTF](./osu-ctf/README.md) | Moderate | 1/1 | ✅ |
-| [H1 Thermostat](./h1-thermostat/README.md) | Easy | 2/2 | ✅ |
-| [RTFM](./rtfm/README.md) | Moderate | 8/8 | ✅ |
-| [Grayhatcon CTF](./grayhatcon-ctf/README.md) | Moderate | 4/4 | ✅ |
-| [Hackyholidays CTF](./hackyholidays-ctf/README.md) | Moderate | 12/12 | ✅ |
-| [Y2FuIHlvdSByZWNvbj8/](./can-you-recon/README.md) | Moderate | 3/3 | ✅ |
+| [Intentional Exercise](./Intentional%20exercise/README.md) | Moderate | 1/1 | ✅ |
+| [BugDB v1](./BugDB%20v1/README.md) | Easy | 1/1 | ✅ |
+| [BugDB v2](./BugDB%20v2/README.md) | Moderate | 2/2 | ✅ |
+| [XSS Playground — zseano](./XSS%20Playground%20%E2%80%94%20zseano/README.md) | Easy | 1/1 | ✅ |
+| [OSU CTF](./OSU%20CTF/README.md) | Moderate | 1/1 | ✅ |
+| [H1 Thermostat](./H1%20thermostat/README.md) | Easy | 2/2 | ✅ |
+| [RTFM](./RTFM/README.md) | Moderate | 8/8 | ✅ |
+| [Grayhatcon CTF](./Grayhatcon%20CTF/README.md) | Moderate | 4/4 | ✅ |
+| [Hackyholidays CTF](./Hackyholidays%20ctf/README.md) | Moderate | 12/12 | ✅ |
+| [Y2FuIHlvdSByZWNvbj8/](./Y2FuIHlvdSByZWNvbj8/README.md) | Moderate | 3/3 | ✅ |
 
 
 ---
